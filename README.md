@@ -2,7 +2,7 @@ This repository is a collection of Solidity smart contracts built as part of my 
 Each task is a self-contained project focusing on a key concept in Ethereum smart contracts.
 
 📂 Projects
-🏦 Task 1 – Simple Bank
+🏦 Task 1 – Simple Storage
 
 A basic smart contract that allows users to deposit and withdraw Ether.
 
