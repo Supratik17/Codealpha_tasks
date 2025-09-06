@@ -18,23 +18,24 @@ A decentralized polling and voting system where users can create polls, vote onc
 
 A smart contract that allows users to lock Ether for a time period and withdraw only after unlock.
 
+
 🚀 How to Run
 
-Open Remix IDE
-.
+  Open Remix IDE
 
-Open a task folder → copy the .sol file into Remix.
+  Open a task folder → copy the .sol file into Remix.
 
-Compile using Solidity 0.8.x.
+  Compile using Solidity 0.8.x.
 
-Deploy using Remix VM (London).
+  Deploy using Remix VM (London).
 
-Interact with contract functions.
+  Interact with contract functions.
+
 
 🛠 Tech Stack
 
-Solidity 0.8.x
+  Solidity 0.8.x
 
-Remix IDE
+  Remix IDE
 
-Ethereum VM (for local testing)
+  Ethereum VM (for local testing)
